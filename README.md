@@ -1,0 +1,2 @@
+# omarchy-plugins
+omarchy-plugins
